@@ -1,0 +1,29 @@
+{
+  "name": "@payable/ipg-js",
+  "description": "PAYable IPG SDK",
+  "version": "1.0.4",
+  "author": "PAYable Pvt Ltd <contact@payable.lk>",
+  "license": "MIT",
+  "repository": "payable/ipg-js",
+  "homepage": "https://github.com/payable/ipg-js",
+  "keywords": [
+    "payable",
+    "payable ipg",
+    "ipg sdk",
+    "sri lanka",
+    "ipg",
+    "payable sdk",
+    "javascript ipg sdk",
+    "payable react.js sdk"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "mocha --timeout 36000 test/tests.js"
+  },
+  "devDependencies": {
+    "mocha": "^7.0.1"
+  }
+}

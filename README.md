@@ -118,7 +118,7 @@ const payment = {
     shipping_contact_first_name: "Kumaran",
     shipping_contact_last_name: "Test Lastname",
     shipping_contact_mobile: "07XXXXXXXX",
-    shipping_contact_phone: "07XXXXXXXX",
+    shipping_contact_phone: "07XXXXXXXX"
   };
 
    ````

@@ -128,6 +128,9 @@ const payment = {
 <b>3.1.</b> Submit your payment request into `payable.startPayment()`.
 
 ```javascript
+ // Env set - sandbox env sandboxMode = true, Live env sandboxMode = false
+ payable.sandboxMode = true
+
  payable.startPayment(payment);
 
 ```
